@@ -136,7 +136,6 @@ header p button {
     place-items: center;
     position: relative;
     font-size: 0;
-    transition: background var(--transition-base);
 }
 
 header p button::before,
@@ -147,7 +146,6 @@ header p button::after {
     background: var(--color-surface);
     border-radius: 999rem;
     position: absolute;
-    transition: transform var(--transition-base);
 }
 
 header p button::before {
