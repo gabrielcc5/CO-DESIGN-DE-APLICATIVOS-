@@ -1,13 +1,2 @@
-.Nome_aba { 
-    padding: 5%;
-    display: flex;
-    justify-content: space-around;
-    
-}
-
-.Titulo_pagina {
-    padding: 2%;
-    display: flex;
-    justify-content: center;
-}
+@import url("css/style.css");
 
