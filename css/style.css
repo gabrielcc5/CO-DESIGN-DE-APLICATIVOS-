@@ -141,3 +141,9 @@ main h4 a {
 main h4 a:hover {
     background-color: #274edc;
 }
+
+.Dados_formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
