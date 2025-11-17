@@ -1,1 +1,41 @@
 # CO-DESIGN-DE-APLICATIVOS-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>index</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../css/reset.css">
+        <link rel="stylesheet" href="../css/style.css">
+    </head>
+    <body>
+        <header>
+            <h1 class="Titulo_pagina">
+                RelaxaAe
+            </h1>
+        </header>
+        <main>
+            <p> 
+                <a class="Nome_aba" href="Psicólogos.html">
+                Psicólogos
+                </a>
+            </p>
+            <p> 
+                <a  class="Nome_aba" href="Exercícios.html">
+                Exercícios
+                </a>
+            </p>
+            <p> 
+                <a class="Nome_aba" href="AutoAjuda.html">
+                Auto Ajuda
+                </a>
+            </p>
+            <p> 
+                <a class="Nome_aba" href="Spotify.html">
+                Spotify
+                </a>
+            </p>
+        </main>
+    </body>
+
+</html>
